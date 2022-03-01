@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyInputs</string>
+    <string name="mailSend">メール通知</string>
+    <string name="mailOn">メール送信をオン</string>
+    <string name="mailOff">メール送信をオフ</string>
+    <string name="sayNo">いいえ</string>
+    <string name="sayYes">はい</string>
+    <string name="windows">Windows</string>
+    <string name="linux">Linux</string>
+    <string name="macos">MacOS</string>
+    <string name="spnOs_prompt">OSを選択して下さい。</string>
+    <string-array name="spnOs_Items">
+        <item>Windows</item>
+        <item>Linux</item>
+        <item>MacOS</item>
+    </string-array>
+</resources>

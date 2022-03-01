@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item1"
+        android:orderInCategory="0"
+        android:title="@string/home"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/item2"
+        android:orderInCategory="1"
+        android:title="@string/help">
+        <menu>
+            <item
+                android:id="@+id/item3"
+                android:orderInCategory="0"
+                android:title="@string/search" />
+            <item
+                android:id="@+id/item4"
+                android:orderInCategory="1"
+                android:title="@string/txtImport" />
+            <item
+                android:id="@+id/item5"
+                android:orderInCategory="2"
+                android:title="@string/export" />
+            <item
+                android:id="@+id/item6"
+                android:orderInCategory="3"
+                android:title="@string/version" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/item7"
+        android:orderInCategory="2"
+        android:title="@string/config">
+        <menu>
+            <item
+                android:id="@+id/item8"
+                android:icon="@drawable/menu8"
+                android:orderInCategory="0"
+                android:title="@string/light" />
+            <item
+                android:id="@+id/item9"
+                android:icon="@drawable/menu9"
+                android:orderInCategory="1"
+                android:title="@string/roudness" />
+            <item
+                android:id="@+id/item10"
+                android:icon="@drawable/menu10"
+                android:orderInCategory="2"
+                android:title="@string/crypt" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/item11"
+        android:orderInCategory="3"
+        android:title="@string/trush" />
+</menu>

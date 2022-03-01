@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Menu</string>
+    <string name="home">ホーム</string>
+    <string name="help">ヘルプ</string>
+    <string name="search">検索</string>
+    <string name="export">エクスポート</string>
+    <string name="version">バージョン</string>
+    <string name="config">設定</string>
+    <string name="light">明るさ</string>
+    <string name="roudness">音量</string>
+    <string name="crypt">暗証番号</string>
+    <string name="trush">ゴミ箱</string>
+    <string name="txtImport">インポート</string>
+</resources>

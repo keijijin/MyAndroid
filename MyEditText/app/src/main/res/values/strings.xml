@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyEditText</string>
+    <string name="send">送信</string>
+    <string name="greet">こんにちは、%sさん！</string>
+</resources>
